@@ -3,7 +3,8 @@
 - 강서구 : https://www.gangseo.seoul.kr/reserve/re040101/view?aplySn=44&curPage=1
 - 광진구 : https://gwangjin.go.kr/portal/bbs/B0000003/view.do?nttId=6034623&menuNo=200192
 ## DSL 23-1 Modelling Project F조 - 광진구 정리 repository
-**팀원** : 백민준, 손승진, 이승원 
+**팀원** : 백민준, 손승진, 이승원
+
 **역할 분담** 
 - 백민준 : 데이터 전처리, 시계열 예측, 발표
 - 손승진 : 데이터 전처리, 시계열 예측
