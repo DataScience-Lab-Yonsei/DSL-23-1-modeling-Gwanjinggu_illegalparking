@@ -67,19 +67,3 @@
 ### Dependencies
 - google colab
 - R 버전 상관 없음
-
-
-## File Description
----
-### Gangseo
-- `hangjungdong.ipynb` : 
-
-
-  - 시계열 예측 모델 (arimax) 를 통한 강서구 예상 주차장 확보율 예측
-  
-  - 강서구 동 별 필요 주차장 면수 예측
-
-
-- `linear_regression_R` : 다중 회귀 모형을 통한 행정동 별 생활인구 변동 분석
-
-- `traffic`:  불법 주정차 문제와 교통 정체의 상관관계 분석
