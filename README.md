@@ -40,6 +40,9 @@
   https://www.data.go.kr/data/15034487/fileData.do
   - 서울특별시 광진구 불법주정차 위반 단속 CCTV 위치정보 데이터
   https://data.seoul.go.kr/dataList/OA-20476/S/1/datasetView.do
+  
+![image](https://user-images.githubusercontent.com/108815023/231499725-6b4231ef-bc81-43d0-9579-5dc590a20ef6.png)
+
 
 - 참고문헌 : 
   - 서울시 주차문제 해결을 위한 주차장 이용효율 향상 연구, 2020, 서울디지털재단
@@ -47,6 +50,12 @@
   **3. 데이터 전처리**
 - 월별, 분기별 단속 수, 생활 인구, 주민등록 인구, 등록차량대수, 주차면수 데이터를 이용해 주차 수요 예측
 - 데이터 전처리를 통해 폴리움 시각화 진행
+
+![image](https://user-images.githubusercontent.com/108815023/231503767-850787a2-cdb1-4102-98df-a82befacfcdb.png)
+
+
+![image](https://user-images.githubusercontent.com/108815023/231503596-d89f18d7-a2d8-4f2f-aadc-6d49b42c2c72.png)
+
 
 **4. Pipeline**
 
@@ -73,3 +82,4 @@
 
 ### Dependencies
 - google colab
+- MS Excel
